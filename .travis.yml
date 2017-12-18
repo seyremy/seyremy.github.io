@@ -1,19 +1,16 @@
 language: ruby
 rvm:
 - 2.3.3
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./script/cibuild
-
+script: "./script/cibuild"
 deploy:
   provider: firebase
   skip_cleanup: true
   token:
     secure: Z+1KMWUCpzQLo1irqMvYBcVuIFf/NzRX0FFZK4zUZoJBgKQPeK4XEXeS7HC1658FDN9l0CVaUcO4kllqsw/90RS3LZEm0Uhtd6Smg72sSUJ5QXdKS9OwG3NVm5TH8Jb5tyKtQV0K5RkR6Undi6QCe72ynmHTyykwSPMMwOO5d15EMsmOASIoQfkkjS5mqE0EjX/lZoRSGCtMuopmJPhXqC6eyIZ8Bl6Z+9bJW5NBombMKWp/O/7JTpeib3gGmYH9UQ5fTerjSukVvzTQDxjAgx/N1fpHjXfB6duYAU7Gaxoaqwzy2zudSHnLvnWnCDHG/XiKLzdquTS9s5YK75ZVhKpBfZfhuIlhJfWmkbiQF7H8bq3CH3V4owu0Vh/LMYe1vByrDScaiOCUG8Fph7zTDGZjb1srBkqB5W7c3C1DPRNfGHlXFKUA4NKqZGE2v2vxIHKG4vrucc0lQXtTra9KZK6W2HgwrHioQpxTr4F8lGCbt9gJ2WqVSxlsiNRgoLa5FbQNeELZGygb5jba1iosZ7zm3lvrEj9u9xQ7abU7bn8MagS2NtkNN0sFFxqatQICLKQtK3uBWxY6lSe9wYvgjYhg9SqixdLLy8+XcWlevxWU26W7czWHbenQ6uw3oKMABDpW5HrQOhh4HjW6ASNW5NtqXBcDhqUX6ShjhhplNXo=
-
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
-sudo: false # route your build to the container-based infrastructure for a faster build
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+sudo: false
+notifications:
+  slack:
+    secure: NVjlRkJAgTZ7zjT5IAcCiAmpgcAapEw73irnCVrCGRudxWQbJvOzhl7r4YQdjdYuPClLfZIJ4w+KHDOUOC9rmO5BDoyeP7liZ8HZQTTCNrkE7fN7xvpLbj5yaCxXERFE7NduVbvjcVKETuokpTmtiLp6/e2yAyQauY+FOiBf/yjYpye05FJc6gkQAuqUHm5CZRaFkU35mYtNbS2gNL0NPEtEtmlh6p20jXayQ/KTSrYaN7Hjw60MuMbzMSGleAs4fdf9cvjgqTLdjKizdh/cZf9cSkjArngx0H58b79v//Cd6dypaS7Mt0wNDWWoARxqaf+bXgq7MUtGp7pNOtS3JLjYYx2gQVKvyS8mndraPlv/a19653OcKgvthWOnci9dQhtpXjj6YpF8XVuGjfNgnu+r2LiFm73i7QrMHbpTfgu2T9+MY7o82D2TaIg98yyqMIE36U3dxTRBy3bgR0GZVGlDnQ4j+d01bCkkYZJUClaqtRvKRljw2yXAqWMU4Y/peaYR/N992CStWakc0jBoRsL5uFZv5ZcuxnwpLLXTycpC+PfS9UoyOzIlz4/vHxQiHs1LPJElMa19BzXPhzAS+qcjU+kZhXM7KvrmEPCW+Fh/gMSOoUfD/fKclaZ4o1JnzIRvb+4PP3J7IFzXga+isqxttPp1krsFz+rIDhRPyTk=
