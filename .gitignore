@@ -6,8 +6,8 @@
 .bundle/
 .byebug_history
 .jekyll-metadata
+.jekyll-cache
 .ruby-gemset
-.ruby-version
 .sass-cache
 /test/source/file_name.txt
 /vendor
