@@ -4,9 +4,8 @@
 `gem`
 
 ## Setup
-`gem install jekyll bundler`  
-`bundle install`  
-`jekyll serve`  
+`gem install bundler`
+`bundle install`
+`bundle exec jekyll serve`
 
 (http://localhost:4000)
-

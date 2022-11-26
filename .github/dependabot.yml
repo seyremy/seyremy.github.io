@@ -1,0 +1,21 @@
+version: 2
+updates:
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: friday
+      time: "17:00"
+      timezone: "Europe/Helsinki"
+    commit-message:
+      prefix: "⬆️"
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: friday
+      time: "17:00"
+      timezone: "Europe/Helsinki"
+    commit-message:
+      prefix: "⬆️"
