@@ -36,3 +36,7 @@ exclude:
 
 sass:
   quiet_deps: true
+
+jekyll_csp:
+  indentation: 2
+  newlines: true
