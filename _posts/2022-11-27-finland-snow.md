@@ -19,7 +19,7 @@ Cyclists also have studded winter tires available, and yes, people do cycle all 
 
 ## Reflective Clothing
 
-When the Daylight Savings Time (AKA Summer Time) ends, the sunset is suddenly at 5pm and continues to get earlier (sunset is at about 3:30pm at the time of writing this). Therefore, there's a lot of moving around in darkness. People in Finland are prepared though, and you can easily find reflective armbands and vests, as well as keychains that can hook onto bags. There's also a variety of reflective clothing, including gloves, jackets, beanies, shoes, and pants. If you want, you can also use reflective spray to make non-reflective clothing more reflective, or add reflective tape. When driving, you can really tell the difference as any reflective item (at least, any GOOD reflective item) will stand out and appear to glow. The Finnish Road Safety Council has a great [guide on reflectors](https://www.liikenneturva.fi/en/road-safety/reflector-be-strongly-visible/).
+When the Daylight Savings Time (AKA Summer Time) ends, the sunset is suddenly at 5pm and continues to get earlier (sunset is at about 3:30pm at the time of writing this). Therefore, there's a lot of moving around in darkness. People in Finland are prepared though, and you can easily find reflective armbands and vests, as well as keychains that can hook onto bags. There's also a variety of reflective clothing, including gloves, jackets, beanies, shoes, and pants. If you want, you can also use reflective spray to make non-reflective clothing more reflective, or add reflective tape. When driving, you can really tell the difference as any reflective item (at least, any GOOD reflective item) will stand out and appear to glow. The Finnish Road Safety Council has a great [guide on reflectors](https://www.liikenneturva.fi/en/road-safety/reflector/).
 
 In addition to reflective clothing, you can also find lots of small LEDs to attach to bags, as well as headlamps. Headlamps aren't needed if walking around more urban areas, since they typically already have good street lights, but can be better for walking around quieter neighborhoods or on unlit forest paths. It's better than carrying around a flashlight, especially since your hands could get pretty cold and tired from holding a flashlight the whole time!
 
@@ -30,7 +30,6 @@ As I mentioned in the introduction, hearing the snow plow inspired me to write t
 When snow starts, the major roads get priority in clearing. Only major roads get salted, otherwise most smaller roads will have gritting[^3]. Pedestrians and cyclists, however, aren't completely left alone here. Sidewalks here tend to be wide and mixed use (outside of the denser parts of the major cities), meaning cyclists are allowed to use the same paths. The fact that the paths are wide mean you rarely have issues of cyclists endangering pedestrians, as there's plenty of room for everyone to move safely. When it snows, these sidewalks are also maintained with plowing and gritting, even if they're not directly on the road. There are lots of paths in Finland that are only for pedestrians and cyclists that offer shortcuts not available to cars, and these are well maintained, even in winter.
 
 Apartment building maintenance companies will handle clearing the snow and gritting paths around the property, and unsafe conditions should be cleared up pretty quickly (it's their job after all). Otherwise, the city maintains the public roads and sidewalks. If you have your own house, be prepared to shovel out the snow on and in front of your property. Also, if you don't have a covered garage, you'll need to shovel out your car whenver it snows. This is one advantage of living in an apartment (with an underground garage), you don't have to worry as much about all that difficult winter maintenance 😅!
-
 
 ## Cozy Home
 
@@ -46,8 +45,7 @@ Since the start of 2022, everyone's been more on edge about possible disasters, 
 
 I feel very safe in Finland because of how well prepared everyone is and because of harsh winter conditions that everyone should anyways prepare for. After all, invaders of Finland would have to fear suddenly hearing the snow speak Finnish...
 
-
-[^1]: <https://www.traficom.fi/en/transport/road/winter-tyres>
+[^1]: <https://web.archive.org/web/20250307083122/https://www.traficom.fi/en/transport/road/winter-tyres>
 [^2]: <https://www.helsinkitimes.fi/finland/finland-news/domestic/22269-helsinki-bans-studded-tyres-on-loennrotinkatu-street.html>
 [^3]: <https://vayla.fi/en/maintenance/road-network/winter-maintenance>
 [^4]: <https://allaway.fi/en/p/ufox-3s-humidifier-white/>

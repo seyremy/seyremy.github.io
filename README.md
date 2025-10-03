@@ -1,11 +1,15 @@
 # Seyremy Blog
 
 ## Dependencies
-`gem`
+
+Ruby, `gem` (or bundler pre-installed, e.g. with asdf-vm)
 
 ## Setup
-`gem install bundler`
-`bundle install`
-`bundle exec jekyll serve`
 
-(http://localhost:4000)
+```sh
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+
+(<http://localhost:4000>)

@@ -33,3 +33,6 @@ exclude:
   - Gemfile.lock
   - script/cibuild
   - .github/
+
+sass:
+  quiet_deps: true
