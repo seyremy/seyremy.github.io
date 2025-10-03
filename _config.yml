@@ -34,6 +34,8 @@ exclude:
   - script/cibuild
   - .github/
 
+include: [_headers]
+
 sass:
   quiet_deps: true
 
